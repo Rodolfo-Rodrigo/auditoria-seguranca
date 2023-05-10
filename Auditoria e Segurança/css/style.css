@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+   list-style: none;
+}
+
+#img-home{
+    width: 100%;
+    height: 99.6vh;
+    position: absolute;
+}
+
+#btn-home{
+    position: relative;
+    bottom: -70.3vh;
+    margin-left: 10.9%;
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 0.2% 10.95%;
+}
+
+#btn-home:hover{
+    background-color: white;
+    color: #00ff3c;
+}
+
+#login{
+    width: 30%;
+    margin-top: 7%;
+    margin-left: 35%;
+    background-color: #00ff3ca2;
+    box-shadow: 5px 5px 5px 10px black;
+    border-radius: 20%;
+    padding: 4%;
+}
+
+#registro{
+    width: 48%;
+    margin-top: 7%;
+    margin-left: 25%;
+    background-color: #00ff3ca2;
+    box-shadow: 5px 5px 5px 10px black;
+    border-radius: 20%;
+    padding: 4%;
+}
+
+.fundo{
+    background-color: rgb(198, 200, 201);
+}
+
+#register{
+    margin-top: -22%;
+    margin-left: 70%;
+}
+
+#register1{
+    margin-top: -12.2%;
+    margin-left: 70%;
+    
+}
+
+.menu-lateral{
+    width: 25%;
+    height: 84.5vh;
+    background-color: #00ff3c;
+}
+
+.menu-lateral li{
+    border-top: 1px solid gray;
+    margin-left: -10%;
+    text-align: center;
+    padding: 5% 0;
+    font-size: 1.5rem;
+}
+
+li a{
+    padding: 5.5% 39.5%;
+    color: black;
+}
+
+li:hover,.active{
+    border: 1px solid red;
+    background-color: white;
+
+}
+
+li a:hover,.active{
+    color: #00ff3c;
+}
+
+.centro{
+    margin-top: -38%;
+    margin-left: 28%;
+    width: 68%;
+    height: 73vh;
+    background-color: #00ff3c9a;
+}
+
+.curso{
+    margin: 1% 0.5%;
+    float: left;
+}
+
+#quiz hr{
+    width: 80%;
+    margin-left: 10%;
+}
+
+#quiz p{
+    text-align: center;
+    padding-top: 1%;
+}
+
+#quiz li{
+    text-align: center;
+    width: 65vw;
+    margin-bottom: 1%;
+    margin-left: -1%;
+}
+
